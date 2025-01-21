@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # 打印list:
-names = ['Michael', 'Bob', 'Tracy']
+names = ['Michael', 'Bob', 'Tracy','Raymond Chen']
 for name in names:
     print(name)
 
